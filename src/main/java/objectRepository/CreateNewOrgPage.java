@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class CreateNewOrgPage {
-	System.out.println("i am upadated from github TL")
+	//System.out.println("i am upadated from github TL")
 //declaration
 	@FindBy(xpath ="")private WebElement orgNametxt;
 	@FindBy(xpath ="")private WebElement saveBtn;
