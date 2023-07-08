@@ -9,7 +9,7 @@ import com.google.common.annotations.VisibleForTesting;
 
 public class HomePage {
 	
-/*	//declaration
+/*	//declaration all component as private
 @FindBy(xpath = "")private WebElement orglnk;//organization
 @FindBy(xpath = "")private WebElement cntlnk;//contact
 @FindBy(xpath = "")private WebElement adminImg;//administrative it contain signOut btn
